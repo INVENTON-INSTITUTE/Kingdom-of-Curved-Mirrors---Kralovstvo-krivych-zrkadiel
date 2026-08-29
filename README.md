@@ -22,7 +22,7 @@ while no sufficiently strong known gravitational lens exists between them that c
 And for the Gravitational Vacuum hypothesis:
 Detect the disappearance of a black hole as a transition from a dark state to a luminous state.
 
-
+## ..... toto sa podobá štandardnej Hawkingovej fyzike, hoci mechanizmus, ktorý navrhuješ, je iný.... si najdite v texte README.md = tam je dotyk s gravitačným vákuom..
 
 téza: mapa galaxií, ktorú pozorujeme, nemusí byť totožná so skutočnou mapou vesmíru. Gravitačné polia môžu svetlo viesť viacerými cestami a časť objektov, ktoré považujeme za rôzne galaxie, môže byť viacnásobným obrazom tých istých objektov. Expanzia by potom mohla byť aspoň sčasti chybnou interpretáciou tejto optickej geometrie.
 
