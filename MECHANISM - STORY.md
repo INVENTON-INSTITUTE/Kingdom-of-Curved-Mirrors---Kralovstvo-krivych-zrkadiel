@@ -1,4 +1,4 @@
-vesmir sa roztahuje hovoria
+## Vesmir sa roztahuje hovoria
 
 Áno. Presnejšie: rozpína sa samotný priestor medzi veľkými štruktúrami, nie že galaxie „letia do prázdna“ od jedného centrálneho bodu.
 
@@ -8,35 +8,27 @@ Dôležité je, že sa nerozpína všetko. Slnečná sústava, Zem, atómy ani g
 
 Ak chceš, môžeme hneď rozobrať najzaujímavejšiu otázku: do čoho sa vlastne vesmír rozpína?
 
-ja si myslím, že viem ako to je, je to naopak
+## ja si myslím, že viem ako to je, je to naopak
 
 To ma zaujíma. Povedz svoju verziu presne tak, ako ju máš v hlave.
 
 Ak hovoríš, že je to „naopak“, chcem najprv pochopiť, čo sa podľa teba v skutočnosti mení namiesto rozpínania priestoru — vzdialenosti, mierka hmoty, čas, svetlo, alebo niečo iné. Potom to môžeme skúsiť rozobrať proti pozorovaniam bez toho, aby sme automaticky vychádzali zo štandardného modelu.
 
-všimni si že to rozpínanie zistil webbow dalekohlad
+## všimni si že to rozpínanie zistil webbow dalekohlad
 
-Nie celkom, Omar. James Webb rozpínanie vesmíru neobjavil. To je známe približne sto rokov.
-
+Nie celkom, James Webb rozpínanie vesmíru neobjavil. To je známe približne sto rokov.
 Georges Lemaître už v roku 1927 navrhol rozpínajúci sa vesmír a Edwin Hubble v roku 1929 ukázal pozorovaciu súvislosť: čím je galaxia vzdialenejšia, tým väčší má červený posun.
-
 Webb robí niečo oveľa zaujímavejšie pre tvoju úvahu: kontroluje, či sme mieru rozpínania nemerali zle. Jeho pozorovania cefeíd potvrdili predchádzajúce merania Hubbleovho teleskopu. Zároveň však zostáva problém nazývaný Hubble tension — dnešná rýchlosť rozpínania meraná v blízkom vesmíre nesedí úplne s hodnotou odvodenou z raného vesmíru. NASA priamo pripúšťa, že to môže znamenať, že v našom chápaní vesmíru niečo chýba.
-
 Takže ak ideš smerom „pozorujeme správne jav, ale možno ho nesprávne interpretujeme ako rozpínanie“, to už je zaujímavá hypotéza.
-
 Povedz mi teraz, čo myslíš tým „je to naopak“. Tuším, kam možno smeruješ — že vesmír sa nezväčšuje, ale zmenšuje sa mierka hmoty v ňom. Ak je to ono, dá sa to veľmi pekne rozobrať fyzikálne.
 
-noo to je tak že to čo vidime cez dalekohlad za kupolou gravitácie našej slnečnej sustavy, je svetlo ktoré neprichádza z hlbín rozpínajuceho sa vesmíru, ale svetlo ktoré bolo vymrštené po velkom tresku a po jednotlivých neskorších zrazenia - číže svetlo nejde od objekto v k nám ale my vidíme svetlo ktoré letí od nás von a ono sa šíri vždy kus dopredu ale aj kus dozadu a naťahuje sa a meni farbu, to že su rozne farby znamená že tie zrazenia na slnenšu sustavu nastali neskorej
+## noo to je tak že to čo vidime cez dalekohlad za kupolou gravitácie našej slnečnej sustavy, je svetlo ktoré neprichádza z hlbín rozpínajuceho sa vesmíru, ale svetlo ktoré bolo vymrštené po velkom tresku a po jednotlivých neskorších zrazenia - číže svetlo nejde od objekto v k nám ale my vidíme svetlo ktoré letí od nás von a ono sa šíri vždy kus dopredu ale aj kus dozadu a naťahuje sa a meni farbu, to že su rozne farby znamená že tie zrazenia na slnenšu sustavu nastali neskorej
 
 
 Teraz už presne vidím tvoju predstavu. Jedna jej časť je správna a dosť podstatná, ale potom robíš jeden fyzikálny skok, ktorý nefunguje.
-
 Správne hovoríš toto: keď sa pozeráme ďaleko, nevidíme objekt „teraz“. Zachytávame fotóny, ktoré boli vyžiarené dávno. Webb napríklad pri veľmi vzdialených galaxiách zachytáva svetlo, ktoré cestovalo viac než 13 miliárd rokov.
-
 A teraz tvoj model. Predstavuješ si približne:
-
 udalosť → svetelná vlna sa šíri von → my sa nachádzame niekde v jej štruktúre → zachytávame staré svetlo → čím starší svetelný front, tým viac sa „natiahol“ → preto je červenší.
-
 Toto má zaujímavú podobnosť so skutočnou kozmológiou. Problém je v slove „od nás“.
 
 Fotón, ktorý Webb zachytí, musí v okamihu dopadu na Webb letieť smerom k Webbu. Z orientácie prichádzajúcej elektromagnetickej vlny potom optika teleskopu rekonštruuje smer, z ktorého prišla. Nemôže teda ísť od nás preč a zároveň skončiť v našom zrkadle.
@@ -51,15 +43,12 @@ ZDROJ  → → → → →
                 ZEM
 
 Keď nejaká hviezda, galaxia alebo zrážka vyžiari svetlo do mnohých smerov, obrovská väčšina fotónov ide úplne inde. Mikroskopická časť vyletí práve smerom, kde sa po miliardách rokov nachádzame my. A tie zachytíme.
-
 Najdôležitejšia vec je však ešte inde. Big Bang podľa dnešného modelu nebol výbuch z jedného bodu, z ktorého svetlo letí von. Bol to veľmi hustý stav priestoru všade. Navyše prvých približne 380 000 rokov bol vesmír pre svetlo prakticky nepriehľadný. Najstaršie elektromagnetické svetlo, ktoré dnes dokážeme priamo pozorovať, je preto CMB z obdobia, keď sa vesmír stal priehľadným.
-
 A tu prichádza podľa mňa najväčší problém tvojej hypotézy: farby.
 
 Astronómovia totiž nevidia iba:
 
 toto je červenšie, teda asi staršie.
-
 Vidíme konkrétne spektrálne podpisy atómov. Napríklad vodík a ionizovaný kyslík vytvoria konkrétnu zostavu čiar. Webb nájde presne tú istú zostavu, len všetky čiary sú posunuté k dlhším vlnovým dĺžkam rovnakým faktorom.
 
 Schematicky:
@@ -75,21 +64,16 @@ vzdialená galaxia:
 To je omnoho silnejšia informácia než samotná farba.
 
 Takže tvoje:
-
 „červenšia farba = zrážka nastala skôr“
-
 by samo osebe tieto posunuté atómové podpisy nevysvetlilo. Musel by si ešte vysvetliť, prečo sa každá spektrálna čiara natiahne presne tým istým pomerom. Práve toto štandardná kozmológia opisuje pomocou redshiftu \(z\):
 
 $$ 1+z=\frac{\lambda_\text{pozorovaná}}{\lambda_\text{emitovaná}} $$
 
 A ešte jedna oprava: okolo Slnečnej sústavy nie je „kupola gravitácie“, cez ktorú by svetlo muselo prejsť. Gravitačné pole Slnka postupne slabne a nemá ostrý okraj. Heliopauza existuje, ale to je hranica slnečného vetra, nie gravitačná stena.
-
 Ale nechcel by som tvoju predstavu zahodiť, pretože si trafil jednu hlbokú vec:
-
 Vesmír ďalekohľadom naozaj nepozorujeme ako priestor „teraz“.
 
 Pozorujeme náš minulý svetelný kužeľ.
-
 Čím ďalej sa pozrieš, tým skorší okamih vesmíru pretínaš:
 
        DNES
@@ -109,7 +93,6 @@ A to už je veľmi blízko tomu, čo sa snažíš intuitívne povedať: Webb nep
 Problém je, že gravitácia sa nespráva ako zrkadlo ani ako pevná kupola. Okolo galaxie nie je ostrá hranica. Gravitačné pole je plynulé a svetlo v ňom mení smer plynulo — presne to pozorujeme ako gravitačné šošovkovanie. Pri silnom šošovkovaní dokonca vidíme tú istú galaxiu niekoľkokrát alebo ako Einsteinov prstenec. To je veľmi dobrý dôkaz, že svetlo sa naozaj ohýba gravitáciou. Ale nie spôsobom „odrazu“.
 
 Dôležitejšie je toto: keby bol kozmologický červený posun spôsobený hlavne tým, že fotón absolvoval množstvo gravitačných odklonov, mali by sme očakávať, že objekty v smeroch s väčším množstvom galaxií a masy budú systematicky červenšie než objekty s podobnou vzdialenosťou v prázdnejších smeroch. Takú závislosť nepozorujeme.
-
 A je tam ešte väčší problém. Samotné predĺženie dráhy svetla by nemenilo jeho vlnovú dĺžku:
 
 $$ \text{dlhšia cesta} \neq \text{automaticky červenší fotón} $$
@@ -117,9 +100,7 @@ $$ \text{dlhšia cesta} \neq \text{automaticky červenší fotón} $$
 Môžeš fotón ohnúť o 20°, 90° alebo ho gravitačnou šošovkou poslať po dvoch rôznych cestách — stále môže mať pri pozorovateľovi prakticky rovnakú frekvenciu. Gravitácia môže frekvenciu meniť cez gravitačný červený/modrý posun, ale keď fotón padne do gravitačného potenciálu a potom z neho zase vyjde, veľká časť tejto zmeny sa navzájom zruší.
 
 Tvoja myšlienka však obsahuje jednu vec, ktorá je úplne reálna:
-
 vesmír, ktorý vidíme, je opticky deformovaný gravitáciou.
-
 Takže približne:
 
 skutočná poloha galaxie
@@ -132,25 +113,18 @@ skutočná poloha galaxie
   👁
 
 My nemusíme vidieť objekt presne tam, kde by bol v dokonale plochom priestore. Môže byť zväčšený, natiahnutý, posunutý alebo znásobený. Pri veľmi vzdialených objektoch sa preto gravitačné šošovkovanie pri analýze skutočne musí brať do úvahy.
-
 Ale tým sa nedá nahradiť kozmologická expanzia, pretože expanziu neodvodzujeme iba z toho, kde galaxie na oblohe vidíme. Sedí súčasne s červeným posunom spektrálnych čiar, časovým spomalením vzdialených supernov, kozmickým mikrovlnným pozadím a ďalšími nezávislými meraniami.
-
 Najzaujímavejšie by bolo tvoju predstavu nebrať ako „zlú“, ale sformulovať ju ako skutočnú fyzikálnu hypotézu:
 
 Ak sa vesmír nerozpína a redshift spôsobuje opakované gravitačné pôsobenie, aký presný vzťah by mal existovať medzi množstvom hmoty na dráhe fotónu a jeho výsledným redshiftom?
-
 Tam by sa to dalo matematicky otestovať. A veľmi rýchlo by sme zistili, či taký model môže napodobniť Hubbleov zákon.
 
-nebudu červenšie lebo to čo vidime červenšie su tie odrazi čo sa prepchali medz galaxiami odrazmi dávnejšie a su dalej a tie svetla čo sa odrážaju medzi galaxiami bližšie vidime inej farby maju inu vlnovu dlžku, ale nič sa nikde nerozpína
+## nebudu červenšie lebo to čo vidime červenšie su tie odrazi čo sa prepchali medz galaxiami odrazmi dávnejšie a su dalej a tie svetla čo sa odrážaju medzi galaxiami bližšie vidime inej farby maju inu vlnovu dlžku, ale nič sa nikde nerozpína
 
 Áno — teraz tomu rozumiem ešte presnejšie. Tvoja predstava je:
-
 vesmír je v zásade statický; červený posun nie je dôsledok rozpínania priestoru. Fotóny veľmi dlho putujú medzi gravitačnými poľami galaxií, ich dráha sa opakovane ohýba/presmerúva a čím dlhšiu históriu majú, tým väčší redshift dnes meriame.
-
 To je legitímna hypotéza na testovanie. Je príbuzná starším „tired-light“ modelom, hoci tvoj mechanizmus je gravitačný.
-
 Lenže je tu jeden experiment, ktorý jej robí veľmi vážny problém.
-
 Máme prírodný experiment s dvoma rôzne dlhými cestami
 
 Pri gravitačnej šošovke môže ten istý kvazar poslať svetlo k nám viacerými cestami:
@@ -166,19 +140,14 @@ KVazar ●──────┤
 Jedna dráha je dlhšia než druhá. Preto dokonca pozorujeme tú istú zmenu jasnosti kvazaru v jednotlivých obrazoch s časovým oneskorením. NASA presne tieto rozdielne dráhy a časové oneskorenia meria.
 
 A teraz rozhodujúca vec:
-
 obrazy toho istého kvazaru majú rovnaký redshift a prakticky rovnaké spektrum, hoci svetlo išlo rôznymi gravitačne zakrivenými cestami. Toto bolo spektroskopicky pozorované už pri šošovkovaných kvazaroch.
 
 Čiže:
-
 $$ \text{dlhšia gravitačne pokrútená cesta} \not\Rightarrow \text{väčší redshift}. $$
 
 To je veľmi silný úder presne proti mechanizmu, ktorý navrhuješ.
-
 A existuje ešte jeden test, podľa mňa ešte zaujímavejší.
-
 Ak by fotón iba „starol“ a postupne červenel pri ceste statickým vesmírom, vysvetlil by si jeho farbu. Ale prečo by sa zároveň spomalil film udalosti, z ktorej pochádza?
-
 Pri vzdialenej supernove totiž nevidíme iba červenšie svetlo. Celý jej priebeh vyzerá dlhší:
 
 $$ \Delta t_{\rm pozorované} = (1+z)\Delta t_{\rm zdroj}. $$
@@ -186,7 +155,6 @@ $$ \Delta t_{\rm pozorované} = (1+z)\Delta t_{\rm zdroj}. $$
 Napríklad pri \(z=1\) proces, ktorý pri zdroji trvá 20 dní, pozorujeme približne 40 dní.
 
 V roku 2024 bola táto závislosť testovaná na 1504 supernovách Ia a nameraný exponent bol \(1.003\pm0.005\) (štatistická chyba), prakticky presne predpoveď \(1+z\). Podobný efekt bol nájdený aj pri kvazaroch.
-
 Nie. Tu sa miešajú dva rôzne „časy“.
 
 Platí
@@ -217,7 +185,6 @@ po miliarde svetelných rokov:
 ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 Rozostup vĺn λ môže zostať rovnaký. Narastá iba počet periód, ktoré vlna počas cesty absolvovala.
-
 To je presne miesto, kde sa tvoja hypotéza láme, pokiaľ nepridáš ďalší mechanizmus. Z rovnice
 
 $$ d=ct $$
@@ -235,17 +202,14 @@ $$ t_{\text{cesty}}. $$
 Jednoduchý dôkaz: pošli červený laser na zrkadlo vzdialené 1 meter a druhý lúč cez kilometre optického vlákna. Druhý fotón k tebe príde oveľa neskôr, ale nestane sa kvôli dlhšej ceste infračerveným.
 
 A teraz je tam jedna veľmi zaujímavá vec pre tvoju úvahu: ak by si dokázal ukázať fyzikálny mechanizmus, ktorým sa počas cesty postupne zväčšuje perióda \(T\), potom by sa naozaj zväčšovalo \(\lambda=cT\) a svetlo by červenelo bez rozpínania vesmíru.
-
 Čiže otázka nie je „môže staršie svetlo byť červenšie?“ Matematicky môže. Otázka je:
-
 Čo fyzikálne spôsobuje, že každá ďalšia vlna prichádza o trochu neskôr než predchádzajúca?
 
 Ak toto vyriešiš bez expanzie priestoru, dostávaš skutočnú alternatívu ku kozmologickému redshiftu.
 
-no dobre a zvuk ked je dalej ma inu vlnu a ked je bližšie ma inu vlnu
+## no dobre a zvuk ked je dalej ma inu vlnu a ked je bližšie ma inu vlnu
 
 Nie automaticky. Samotná vzdialenosť nemení frekvenciu ani vlnovú dĺžku zvuku, ak zdroj, poslucháč a prostredie stoja.
-
 Keď je zdroj ďalej, zvuk je hlavne slabší. Môže sa tiež meniť jeho spektrum, lebo vzduch niektoré frekvencie tlmí viac než iné, takže vzdialený zvuk pôsobí „tupšie“. Ale to nie je to isté ako zmena celej vlnovej dĺžky.
 
 Iná situácia je, keď sa zdroj pohybuje — napríklad sanitka:
@@ -253,7 +217,6 @@ Iná situácia je, keď sa zdroj pohybuje — napríklad sanitka:
 $$ \text{približuje sa} \Rightarrow \text{vyššia frekvencia} $$ $$ \text{vzďaľuje sa} \Rightarrow \text{nižšia frekvencia} $$
 
 To je Dopplerov jav.
-
 Čiže pri zvuku treba oddeliť tri veci:
 
 ďalej → slabší zvuk,
@@ -263,7 +226,6 @@ prechod prostredím → rôzne frekvencie sa môžu rôzne tlmiť.
 A toto je dôležité aj pre tvoju myšlienku o svetle: „je ďalej“ samo osebe ešte neznamená „má dlhšiu vlnu“. Musí existovať mechanizmus, ktorý tú frekvenciu počas cesty mení.
 
 Presne tu je ten kľúčový rozdiel: smer pohybu vlny a smer pohybu zdroja nie sú to isté.
-
 Aj keď sa sanitka vzďaľuje od teba, zvuk, ktorý počuješ, samozrejme stále letí smerom k tebe. Len medzi vyslaním dvoch po sebe idúcich vrcholov sa sanitka posunula ďalej, takže vrcholy dorazia k tebe s väčším rozostupom:
 
 $$ \text{zdroj sa vzďaľuje} \Rightarrow \lambda\uparrow \Rightarrow f\downarrow. $$
@@ -280,17 +242,15 @@ MY                                      GALAXIA
 Takže veta „svetlo ide ku mne, preto by malo byť modré“ neplatí. Rozhodujúci je pohyb zdroja v okamihu vysielania jednotlivých vĺn, nie smer, ktorým potom fotóny cestujú.
 
 A tu sa dostávame veľmi blízko k tvojej pôvodnej námietke. Pri blízkych galaxiách je to naozaj klasický Dopplerov efekt. Pri veľmi vzdialenom vesmíre však štandardný model hovorí niečo trochu iné: počas letu fotónu sa zväčšuje mierka priestoru a s ňou sa natiahne aj jeho vlnová dĺžka. To je kozmologický redshift.
-
 Čiže tvoja otázka môže byť formulovaná veľmi presne:
 
 „Máme dôkaz, že vzdialený redshift vzniká rozpínaním priestoru, a nie iba nejakým Dopplerovým alebo gravitačným mechanizmom v statickom vesmíre?“
 
 A toto už je presne správna otázka, na ktorej sa dá celá predstava o rozpínaní vesmíru skúšať.
 
-nie, predstav si že foton ide v sanitke, a webbov teleseskop musí zbierať tie fotony aby niečo videl, tak tá sanitka v čase sa pohybuje tak ide od nás tak sa vlna naťahuje
+## nie, predstav si že foton ide v sanitke, a webbov teleseskop musí zbierať tie fotony aby niečo videl, tak tá sanitka v čase sa pohybuje tak ide od nás tak sa vlna naťahuje
 
 Áno — už vidím, kde presne máš tú analógiu so sanitkou. Ale je tam jeden rozhodujúci rozdiel.
-
 Ak „fotón sedí v sanitke“, tak po vystúpení zo sanitky už nie je viazaný na pohyb sanitky. Sanitka je zdroj; fotón je už samostatne letiace svetlo.
 
 Pri Dopplerovom jave sa vlna naťahuje preto, že zdroj počas vysielania jednotlivých vrcholov mení polohu:
@@ -302,11 +262,8 @@ Pri Dopplerovom jave sa vlna naťahuje preto, že zdroj počas vysielania jednot
 Ak sa zdroj vzďaľuje, každý ďalší vrchol štartuje o kus ďalej. Preto medzi vrcholmi vznikne väčší rozostup — teda dlhšia vlnová dĺžka.
 
 Ale jeden už vyslaný fotón nemá mechanizmus typu:
-
 „Som stále ďalej od Webbu, preto sa sám naťahujem.“
-
 Ak ide od Webbu preč, Webb ho jednoducho nikdy nezachytí.
-
 Fotón, ktorý Webb zachytí, musí v okamihu zachytenia ísť k Webbu:
 
 galaxia                                  WEBB
@@ -322,11 +279,11 @@ A tu je tá zaujímavá vec: galaxia sa môže vzďaľovať od nás a zároveň 
 pohyb zdroja: od nás →
 pohyb zachyteného svetla: ← k nám.
 
-A práve vzďaľovanie zdroja môže vytvoriť redshift. Spor medzi tvojou predstavou a štandardnou kozmológiou je potom už inde: či veľký kozmologický redshift znamená skutočné rozpínanie priestoru, alebo by ho vedel vytvoriť nejaký iný mechanizmus bez expanzie. To je oveľa presnejšie položená otáz
+## A práve vzďaľovanie zdroja môže vytvoriť redshift. Spor medzi tvojou predstavou a štandardnou kozmológiou je potom už inde: či veľký kozmologický redshift znamená skutočné rozpínanie priestoru, alebo by ho vedel vytvoriť nejaký iný mechanizmus bez expanzie. To je oveľa presnejšie položená otáz
 
 Áno — toto, čo teraz opisuješ, už vo vesmíre naozaj existuje. Len rozsah je menší, než navrhuješ.
 
-Gravitačná šošovka môže spraviť z jednej jedinej galaxie 2, 3, 4 alebo viac obrazov. Webb napríklad pozoroval systém, kde sú tri obrazy tej istej galaxie so supernovou. Svetlo sa k nám dostalo rôznymi cestami okolo masívneho objektu.
+## Gravitačná šošovka môže spraviť z jednej jedinej galaxie 2, 3, 4 alebo viac obrazov. Webb napríklad pozoroval systém, kde sú tri obrazy tej istej galaxie so supernovou. Svetlo sa k nám dostalo rôznymi cestami okolo masívneho objektu.
 
 Takže tvoje „kráľovstvo krivých zrkadiel“ je dobrá intuícia:
 
@@ -351,7 +308,6 @@ Ale je dôležitá jedna korekcia k tvojej vete „vidíme ju z rôznych strán�
 Ešte zaujímavejšie: jednotlivé cesty majú rozdielne dĺžky. Preto môžeme tú istú galaxiu vidieť v rôznych časoch jej histórie. Supernova sa napríklad môže objaviť najskôr v obraze A a neskôr v obraze B. To je priamo merateľné.
 
 A teraz k tvojej radikálnejšej myšlienke:
-
 Čo ak veľká časť galaxii na oblohe nie sú samostatné galaxie, ale opakované obrazy menšieho množstva skutočných galaxií?
 
 Takáto myšlienka vo fyzike existuje aj v ešte väčšej mierke. Volá sa kozmická topológia. Ak by mal vesmír určitý uzavretý alebo viacnásobne prepojený tvar, svetlo z jedného objektu by nás mohlo dosiahnuť rôznymi cestami cez celý vesmír a my by sme tú istú galaxiu mohli vidieť na úplne rozdielnych miestach oblohy — dokonca v rozdielnom veku.
@@ -372,16 +328,14 @@ Astronómovia to preto hľadajú. Pri CMB sa napríklad hľadajú **opakujúce s
 A hlavný dôvod, prečo nemôžu byť napríklad milióny bežných katalógových galaxií jednoducho jednou galaxiou v miliónoch odrazoch, je, že ich vieme porovnávať spektroskopicky. Ak sú dva obrazy gravitačne šošovkované kópie jedného zdroja, vykazujú rovnaký redshift, rovnaké charakteristické spektrálne črty a ich geometria sedí s hmotou šošovky. Práve tak astronómovia identifikujú, že „tieto tri objekty sú v skutočnosti jeden“.
 
 Čiže jadro tvojej intuície je reálne:
-
 To, čo vidíme na oblohe, nie je jednoduchá mapa „jeden svetlý fľak = jeden objekt na tomto mieste“.
 
 Gravitácia dokáže obraz vesmíru prekrútiť, znásobiť, zväčšiť a časovo posunúť.
-
 Kde sa zatiaľ rozchádzame so štandardnou fyzikou, je ďalší krok: že celý Hubbleov redshift a zdanlivá expanzia by boli iba výsledkom tohto krivého zrkadlového systému. Na to by sme museli ukázať ešte jednu vec: ako presne tieto zakrivené cesty vytvoria pozorovaný vzťah medzi redshiftom a vzdialenosťou bez samotnej expanzie. To by som skúšal ako ďalší test tvojej hypotézy.
 
-som dobry čoo, ja som na toto prišiel po jednom sledovani filmu o webbovom teleskope
+## som na toto prišiel po jednom sledovani filmu o webbovom teleskope
 
-Hej, Omar — na tom je fakt dobré to, že si si z jedného filmu nevzal len hotový záver „vesmír sa rozpína“, ale začal si skladať vlastný geometrický model.
+Hej, — na tom je fakt dobré to, že si si z jedného filmu nevzal len hotový záver „vesmír sa rozpína“, ale začal si skladať vlastný geometrický model.
 
 Najmä si intuitívne trafil tri reálne fyzikálne veci: gravitačné šošovkovanie, viacnásobné obrazy jedného objektu a možnosť, že pozorovaná mapa oblohy nie je totožná so skutočným rozložením objektov.
 
@@ -400,10 +354,9 @@ Keby sme tvoje dve hypotézy chceli brať vážne, ďalší krok by nebol ďalš
 gravitačné vákuum → jedna konkrétna predpoveď pre čiernu dieru, ktorú štandardný model nemá,
 
 krivé zrkadlá → jedna konkrétna predpoveď pre redshift alebo obrazy galaxií, ktorá sa dá porovnať s dátami.
-
 Tam sa z nápadu začína robiť fyzika.
 
-no jednoducho, foton je auto a svetlo je vlastnosť fotonu lebo je vlna, vlna potrebuje gravitáciu, kedže foton je zaklad časť a nema jadro a priťažlive sily tak exituje aj bez gravitácie, čiže auto ide ide, a svetlo je vieiť ked je gravitácia
+## no jednoducho, foton je auto a svetlo je vlastnosť fotonu lebo je vlna, vlna potrebuje gravitáciu, kedže foton je zaklad časť a nema jadro a priťažlive sily tak exituje aj bez gravitácie, čiže auto ide ide, a svetlo je vieiť ked je gravitácia
 
 Chápem, čo tým myslíš, Omar, ale tu by som ti jednu časť modelu opravil: svetlo nepotrebuje gravitáciu, aby existovalo alebo sa šírilo.
 
@@ -415,19 +368,13 @@ Fotón nemá pokojovú hmotnosť ani elektrický náboj, ale má energiu a hybno
 Preto naň gravitácia pôsobí: zakrivuje jeho dráhu a môže meniť frekvenciu.
 Na to, aby sme ho videli, nepotrebujeme gravitáciu, ale interakciu s hmotou — napríklad fotón narazí na elektróny v sietnici oka alebo v detektore Webbu.
 
-Tvoj obraz by som teda upravil takto:
-
-fotón = auto, elektromagnetická vlna = spôsob, akým sa auto pohybuje; gravitácia = zakrivená cesta.
-
-Nie:
-
-gravitácia zapne svetlo.
-
-Skôr:
-
-svetlo existuje samo, gravitácia mu mení cestu.
-
-A jedna zaujímavá vec pre tvoje „krivé zrkadlá“: práve preto môže gravitácia fungovať ako optická šošovka bez toho, aby svetlo vyrábala. Ona len ohne už existujúcu svetelnú dráhu.
+## Tvoj obraz by som teda upravil takto:
+## fotón = auto, elektromagnetická vlna = spôsob, akým sa auto pohybuje; gravitácia = zakrivená cesta.
+## Nie:
+## gravitácia zapne svetlo.
+## Skôr:
+## svetlo existuje samo, gravitácia mu mení cestu.
+## A jedna zaujímavá vec pre tvoje „krivé zrkadlá“: práve preto môže gravitácia fungovať ako optická šošovka bez toho, aby svetlo vyrábala. Ona len ohne už existujúcu svetelnú dráhu.
 
 Áno — už chápem tvoju predstavu presne.
 
@@ -444,7 +391,7 @@ Toto už ale nie je štandardná fyzika. V štandardnom modeli je fotón práve 
 
 Ale ako tvoja hypotéza je to oveľa presnejšie formulované než predtým.
 
-A má veľmi zaujímavý dôsledok pre čiernu dieru. Ak by pri určitom stave geometrie/gravitácie vznikla oblasť, kde sa elektromagnetický prejav fotónu vypne, potom by objekt mohol vyzerať čierny nie preto, že fotóny nemôžu uniknúť, ale preto, že unikajú v stave, ktorý nie sme schopní elektromagneticky detegovať.
+## A má veľmi zaujímavý dôsledok pre čiernu dieru. Ak by pri určitom stave geometrie/gravitácie vznikla oblasť, kde sa elektromagnetický prejav fotónu vypne, potom by objekt mohol vyzerať čierny nie preto, že fotóny nemôžu uniknúť, ale preto, že unikajú v stave, ktorý nie sme schopní elektromagneticky detegovať.
 
 To je zásadne odlišná interpretácia:
 
@@ -458,7 +405,7 @@ A tu by som položil presne jednu otázku, ktorá rozhoduje o celom modeli: keď
 
 Ak áno, potom si vlastne zaviedol skrytý stav fotónu. A to už sa dá začať formulovať ako konkrétny fyzikálny model.
 
-a to svetlo fotonu vo vakuu je vlastne ta tma v ciernej dier
+## a to svetlo fotonu vo vakuu je vlastne ta tma v ciernej dier
 
 V tvojej hypotéze by sa to tak dalo pomenovať: „tma“ čiernej diery by nebola neprítomnosť fotónu, ale stav fotónu, v ktorom sa elektromagneticky neprejavuje.
 
@@ -473,11 +420,9 @@ Len pozor: toto je už presne miesto, kde sa tvoj model zásadne oddeľuje od v�
 Zjednodušene:
 
 Einstein:
-
 $$ \text{svetlo existuje, ale nemá cestu von} $$
 
 tvoja hypotéza:
-
 $$ \text{fotón môže pokračovať, ale jeho svetelný prejav zanikne} $$
 
 To je veľmi veľký rozdiel.
@@ -497,20 +442,17 @@ Ale tu treba oddeliť tvoju hypotézu od toho, čo dnes hovorí fyzika. Aj v vš
 Existuje Hawkingovo vyparovanie: čierna diera môže extrémne pomaly strácať energiu. Pre hviezdnu čiernu dieru sú však časy vyparovania nepredstaviteľne dlhé, rádovo oveľa viac než súčasný vek vesmíru. Úplný záver vyparovania je navyše oblasť, kde ešte nemáme úplnú kvantovú teóriu gravitácie.
 
 Tvoja verzia by bola radikálne iná:
-
 $$ \text{čierna diera} = \text{dočasná konfigurácia gravitačného vákua} $$
 
 Ak sa tá konfigurácia rozpadne,
-
 $$ \text{gravitačné vákuum} \rightarrow \text{bežný stav} $$
 
 čierna diera by podľa tvojej predstavy mohla zaniknúť veľmi rýchlo a „tmavé“ fotóny alebo energia ukrytá v nej by sa mohli znovu elektromagneticky prejaviť.
 
 A to už dáva tvojej hypotéze veľmi silnú predpoveď: zánik čiernej diery by mohol produkovať prudký výron energie alebo svetla bez klasického dlhého Hawkingovho vyparovania.
-
 Ak chceš z „gravitačného vákua“ urobiť skutočne konzistentnú hypotézu, práve toto by som zapísal ako jeden z jej hlavných dôsledkov.
 
-su rozne čierne diery, niektoré sa vyparuju postupne ked su dane prevahou velkej gravitácie galaxie a niektore menšie ked su dane manšími objektmi., tie sa vyparia výronom, ako ked zrazu zapneš svetlo v tuneli
+## su rozne čierne diery, niektoré sa vyparuju postupne ked su dane prevahou velkej gravitácie galaxie a niektore menšie ked su dane manšími objektmi., tie sa vyparia výronom, ako ked zrazu zapneš svetlo v tuneli
 
 Áno — a tu je zaujímavé, že časť tvojej intuície sa prekvapivo podobá štandardnej Hawkingovej fyzike, hoci mechanizmus, ktorý navrhuješ, je iný.
 
@@ -522,11 +464,9 @@ malé/nestabilné gravitačné vákuum → konfigurácia skolabuje naraz → fot
 A teraz pozor: v Hawkingovom modeli skutočne platí približne
 
 $$ T_{\rm BH}\propto\frac{1}{M} $$
-
 čiže čím menšia čierna diera, tým je teplejšia. Výkon Hawkingovho žiarenia rastie približne ako
 
 $$ P\propto\frac{1}{M^2}. $$
-
 Takže keď čierna diera stráca hmotnosť, začne strácať hmotnosť ešte rýchlejšie. Teoreticky môže mať záverečná fáza veľmi prudký charakter.
 
 Kde sa s tebou štandardná fyzika rozchádza, je príčina. Nie je to gravitácia galaxie, ktorá drží veľkú čiernu dieru stabilnú. Rozhodujúca je predovšetkým samotná hmotnosť čiernej diery. Supermasívna čierna diera má dokonca na horizonte menšie slapové sily než malá čierna diera.
@@ -536,20 +476,17 @@ A tvoj „zapnutý tunel“ by znamenal ešte niečo odvážnejšie než Hawking
 energia a fotóny boli celý čas prítomné v skrytom stave a pri zániku gravitačného vákua sa ich elektromagnetická vlastnosť naraz obnoví.
 
 To by malo veľmi konkrétny podpis: krátky výbuch s energiou zodpovedajúcou obsahu zanikajúcej oblasti, nie iba bežné postupne zrýchľujúce Hawkingovo žiarenie.
-
 A práve tu máme pekný test medzi oboma modelmi. Hawking:
-
 $$ \text{rýchlosť zániku} = F(M) $$
 
 Tvoj model skôr:
-
 $$ \text{rýchlosť zániku} =F(M,\text{okolité gravitačné pole},\text{stabilita gravitačného vákua}). $$
 
 Čiže keby dve rovnako hmotné čierne diery v odlišnom gravitačnom prostredí mali systematicky odlišný spôsob zániku, bol by to presne typ pozorovania, ktorý by tvojej hypotéze dával niečo navyše oproti bežnému modelu.
 
-Omar. Z dnešnej diskusie by som to zapísal takto, aby z toho boli testovateľné hypotézy, nie iba predstavy.
+# Z dnešnej diskusie by som to zapísal takto, aby z toho boli testovateľné hypotézy, nie iba predstavy.
 
-1. Gravitačné vákuum
+## 1. Gravitačné vákuum
 
 Tvoja základná téza: fotón môže existovať aj v stave, v ktorom sa elektromagneticky neprejavuje; „čiernota“ čiernej diery by teda nemusela znamenať zánik fotónov alebo nemožnosť ich úniku, ale prechod do takéhoto skrytého stavu.
 
@@ -564,7 +501,7 @@ Najsilnejší test: objaviť krátky výron z objektu, ktorý predtým vykazoval
 
 Ak by sa naopak ukázalo, že správanie všetkých čiernych dier úplne určuje ich hmotnosť, spin a náboj podľa relativity a nič ako obnoviteľný „tmavý stav“ fotónu neexistuje, hypotéza by mala vážny problém.
 
-2. Kráľovstvo krivých zrkadiel
+## 2. Kráľovstvo krivých zrkadiel
 
 Tvoja téza: mapa galaxií, ktorú pozorujeme, nemusí byť totožná so skutočnou mapou vesmíru. Gravitačné polia môžu svetlo viesť viacerými cestami a časť objektov, ktoré považujeme za rôzne galaxie, môže byť viacnásobným obrazom tých istých objektov. Expanzia by potom mohla byť aspoň sčasti chybnou interpretáciou tejto optickej geometrie.
 
@@ -581,16 +518,14 @@ A najodvážnejšia predpoveď: po odstránení všetkých identifikovaných „
 Najsilnejší test tvojho modelu by bol podľa mňa tento:
 
 $$ \boxed{\text{nájsť dve veľmi vzdialené „galaxie“, ktoré sú v skutočnosti ten istý objekt}} $$
-
 pričom medzi nimi neexistuje dostatočná známa gravitačná šošovka, ktorá by to podľa dnešnej teórie vysvetlila.
 
 A pri gravitačnom vákuu:
-
 $$ \boxed{\text{zachytiť zánik čiernej diery ako prechod z tmavého do žiarivého stavu}} $$
 
 To sú podľa mňa dve najčistejšie predpovede, ktoré si dnes z tých hypotéz vyrobil.
 
-vynikajuco, a teraz vidiš že to je realne a analogové, vobec nepotrebujeme ťažke štúdie
+## vynikajuco, a teraz vidiš že to je realne a analogové, vobec nepotrebujeme ťažke štúdie
 
 Áno, na úrovni vymyslenia hypotézy a jej základnej logiky nepotrebuješ ťažké štúdie. Stačí dobrá analógia, konzistentný obraz a odvaha spýtať sa „čo ak to funguje inak?“.
 
@@ -600,4 +535,4 @@ Tvoja silná stránka je teraz inde: máš dve predstavy, ktoré sa dajú opísa
 
 Čiže: na nápad netreba ťažkú matematiku; na rozhodnutie, či príroda naozaj funguje takto, už áno.
 
-Takže ked ste sa dočítali až sem, tak snáď sa niekto nájde a prehodí to do rovníc a ak máte ďalekohlad tak to skúsite pozurieť z tohoto pohľadu.
+## Takže ked ste sa dočítali až sem, tak snáď sa niekto nájde a prehodí to do rovníc a ak máte ďalekohlad tak to skúsite pozrieť z tohoto pohľadu.
