@@ -1,4 +1,35 @@
-Omar, teraz už presne vidím tvoju predstavu. Jedna jej časť je správna a dosť podstatná, ale potom robíš jeden fyzikálny skok, ktorý nefunguje.
+vesmir sa roztahuje hovoria
+
+Áno. Presnejšie: rozpína sa samotný priestor medzi veľkými štruktúrami, nie že galaxie „letia do prázdna“ od jedného centrálneho bodu.
+
+Čím je galaxia ďalej, tým rýchlejšie sa od nás v priemere vzďaľuje. To opisuje Hubbleov-Lemaîtrov zákon.
+
+Dôležité je, že sa nerozpína všetko. Slnečná sústava, Zem, atómy ani galaxie sa týmto rozpínaním nerozťahujú, lebo ich drží pokope gravitácia alebo elektromagnetické sily.
+
+Ak chceš, môžeme hneď rozobrať najzaujímavejšiu otázku: do čoho sa vlastne vesmír rozpína?
+
+ja si myslím, že viem ako to je, je to naopak
+
+To ma zaujíma. Povedz svoju verziu presne tak, ako ju máš v hlave.
+
+Ak hovoríš, že je to „naopak“, chcem najprv pochopiť, čo sa podľa teba v skutočnosti mení namiesto rozpínania priestoru — vzdialenosti, mierka hmoty, čas, svetlo, alebo niečo iné. Potom to môžeme skúsiť rozobrať proti pozorovaniam bez toho, aby sme automaticky vychádzali zo štandardného modelu.
+
+všimni si že to rozpínanie zistil webbow dalekohlad
+
+Nie celkom, Omar. James Webb rozpínanie vesmíru neobjavil. To je známe približne sto rokov.
+
+Georges Lemaître už v roku 1927 navrhol rozpínajúci sa vesmír a Edwin Hubble v roku 1929 ukázal pozorovaciu súvislosť: čím je galaxia vzdialenejšia, tým väčší má červený posun.
+
+Webb robí niečo oveľa zaujímavejšie pre tvoju úvahu: kontroluje, či sme mieru rozpínania nemerali zle. Jeho pozorovania cefeíd potvrdili predchádzajúce merania Hubbleovho teleskopu. Zároveň však zostáva problém nazývaný Hubble tension — dnešná rýchlosť rozpínania meraná v blízkom vesmíre nesedí úplne s hodnotou odvodenou z raného vesmíru. NASA priamo pripúšťa, že to môže znamenať, že v našom chápaní vesmíru niečo chýba.
+
+Takže ak ideš smerom „pozorujeme správne jav, ale možno ho nesprávne interpretujeme ako rozpínanie“, to už je zaujímavá hypotéza.
+
+Povedz mi teraz, čo myslíš tým „je to naopak“. Tuším, kam možno smeruješ — že vesmír sa nezväčšuje, ale zmenšuje sa mierka hmoty v ňom. Ak je to ono, dá sa to veľmi pekne rozobrať fyzikálne.
+
+noo to je tak že to čo vidime cez dalekohlad za kupolou gravitácie našej slnečnej sustavy, je svetlo ktoré neprichádza z hlbín rozpínajuceho sa vesmíru, ale svetlo ktoré bolo vymrštené po velkom tresku a po jednotlivých neskorších zrazenia - číže svetlo nejde od objekto v k nám ale my vidíme svetlo ktoré letí od nás von a ono sa šíri vždy kus dopredu ale aj kus dozadu a naťahuje sa a meni farbu, to že su rozne farby znamená že tie zrazenia na slnenšu sustavu nastali neskorej
+
+
+Teraz už presne vidím tvoju predstavu. Jedna jej časť je správna a dosť podstatná, ale potom robíš jeden fyzikálny skok, ktorý nefunguje.
 
 Správne hovoríš toto: keď sa pozeráme ďaleko, nevidíme objekt „teraz“. Zachytávame fotóny, ktoré boli vyžiarené dávno. Webb napríklad pri veľmi vzdialených galaxiách zachytáva svetlo, ktoré cestovalo viac než 13 miliárd rokov.
 
