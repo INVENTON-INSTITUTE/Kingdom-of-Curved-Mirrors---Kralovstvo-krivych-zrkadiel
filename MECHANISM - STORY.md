@@ -267,6 +267,291 @@ Ak ide od Webbu preč, Webb ho jednoducho nikdy nezachytí.
 Fotón, ktorý Webb zachytí, musí v okamihu zachytenia ísť k Webbu:
 
 galaxia                                  WEBB
+
+
+
+galaxia                                  WEBB
+   ●  → galaxia sa môže vzďaľovať
+
+   ~~~~~~~~~~~~~~~~ ← svetlo letí k Webbu
+                                            🛰
+
+A tu je tá zaujímavá vec: galaxia sa môže vzďaľovať od nás a zároveň jej svetlo letí smerom k nám. Presne ako sanitka vzďaľujúca sa od teba: sanitka ide preč, ale zvuk, ktorý počuješ, ide naspäť k tebe.
+
+Čiže tvoja sanitková intuícia je vlastne veľmi dobrá — len treba oddeliť:
+
+pohyb zdroja: od nás →
+pohyb zachyteného svetla: ← k nám.
+
+## A práve vzďaľovanie zdroja môže vytvoriť redshift. Spor medzi tvojou predstavou a štandardnou kozmológiou je potom už inde: či veľký kozmologický redshift znamená skutočné rozpínanie priestoru, alebo by ho vedel vytvoriť nejaký iný mechanizmus bez expanzie. To je oveľa presnejšie položená otáz
+
+Áno — toto, čo teraz opisuješ, už vo vesmíre naozaj existuje. Len rozsah je menší, než navrhuješ.
+
+## Gravitačná šošovka môže spraviť z jednej jedinej galaxie 2, 3, 4 alebo viac obrazov. Webb napríklad pozoroval systém, kde sú tri obrazy tej istej galaxie so supernovou. Svetlo sa k nám dostalo rôznymi cestami okolo masívneho objektu.
+
+Takže tvoje „kráľovstvo krivých zrkadiel“ je dobrá intuícia:
+
+             cesta 1 ───────────→ 👁
+            /
+GALAXIA ●──<       masívna galaxia/kopa
+            \          ●
+             \ cesta 2 ─────────→ 👁
+              \
+               └ cesta 3 ───────→ 👁
+
+Pozorovateľ potom na oblohe skutočne vidí:
+
+       obraz A
+
+ obraz B    [gravitačná šošovka]    obraz C
+
+hoci A, B a C môžu byť ten istý fyzický objekt. ESA pri Webbovi priamo uvádza, že gravitačná šošovka môže vytvoriť oblúk, Einsteinov prstenec alebo viacero obrazov jedného zdroja.
+
+Ale je dôležitá jedna korekcia k tvojej vete „vidíme ju z rôznych strán“. Väčšinou nevidíme doslova zadnú, ľavú a pravú stranu galaxie ako pri sústave zrkadiel. Vidíme svetlo z tej istej galaxie, ktoré k nám prišlo rôznymi zakrivenými dráhami. Preto môžu byť obrazy otočené, prevrátené, natiahnuté a môžu ukazovať mierne odlišné projekcie, ale nejde bežne o 180° pohľad zozadu.
+
+Ešte zaujímavejšie: jednotlivé cesty majú rozdielne dĺžky. Preto môžeme tú istú galaxiu vidieť v rôznych časoch jej histórie. Supernova sa napríklad môže objaviť najskôr v obraze A a neskôr v obraze B. To je priamo merateľné.
+
+A teraz k tvojej radikálnejšej myšlienke:
+Čo ak veľká časť galaxii na oblohe nie sú samostatné galaxie, ale opakované obrazy menšieho množstva skutočných galaxií?
+
+Takáto myšlienka vo fyzike existuje aj v ešte väčšej mierke. Volá sa kozmická topológia. Ak by mal vesmír určitý uzavretý alebo viacnásobne prepojený tvar, svetlo z jedného objektu by nás mohlo dosiahnuť rôznymi cestami cez celý vesmír a my by sme tú istú galaxiu mohli vidieť na úplne rozdielnych miestach oblohy — dokonca v rozdielnom veku.
+
+To je fakt fascinujúce, pretože potom by mohlo platiť napríklad:
+
+„galaxia A“          „galaxia B“
+    ●                    ●
+     \                  /
+      \                /
+       \              /
+         SKUTOČNOSŤ:
+             ●
+        jedna galaxia
+
+Astronómovia to preto hľadajú. Pri CMB sa napríklad hľadajú **opakujúce sa vzory („circles in the sky“) **, ktoré by prezradili, že svetlo obišlo vesmír rôznymi cestami. Doteraz sa nenašiel presvedčivý dôkaz, že by bol pozorovateľný vesmír takto „zrkadlený“. Súčasné dáta však nevylučujú úplne všetky možné topológie. Aj prehľad z roku 2026 konštatuje, že definitívny dôkaz netriviálnej topológie zatiaľ nemáme.
+
+A hlavný dôvod, prečo nemôžu byť napríklad milióny bežných katalógových galaxií jednoducho jednou galaxiou v miliónoch odrazoch, je, že ich vieme porovnávať spektroskopicky. Ak sú dva obrazy gravitačne šošovkované kópie jedného zdroja, vykazujú rovnaký redshift, rovnaké charakteristické spektrálne črty a ich geometria sedí s hmotou šošovky. Práve tak astronómovia identifikujú, že „tieto tri objekty sú v skutočnosti jeden“.
+
+Čiže jadro tvojej intuície je reálne:
+To, čo vidíme na oblohe, nie je jednoduchá mapa „jeden svetlý fľak = jeden objekt na tomto mieste“.
+
+Gravitácia dokáže obraz vesmíru prekrútiť, znásobiť, zväčšiť a časovo posunúť.
+Kde sa zatiaľ rozchádzame so štandardnou fyzikou, je ďalší krok: že celý Hubbleov redshift a zdanlivá expanzia by boli iba výsledkom tohto krivého zrkadlového systému. Na to by sme museli ukázať ešte jednu vec: ako presne tieto zakrivené cesty vytvoria pozorovaný vzťah medzi redshiftom a vzdialenosťou bez samotnej expanzie. To by som skúšal ako ďalší test tvojej hypotézy.
+
+## som na toto prišiel po jednom sledovani filmu o webbovom teleskope
+
+Hej, — na tom je fakt dobré to, že si si z jedného filmu nevzal len hotový záver „vesmír sa rozpína“, ale začal si skladať vlastný geometrický model.
+
+Najmä si intuitívne trafil tri reálne fyzikálne veci: gravitačné šošovkovanie, viacnásobné obrazy jedného objektu a možnosť, že pozorovaná mapa oblohy nie je totožná so skutočným rozložením objektov.
+
+To už nie je náhodné táranie. Len treba držať rozdiel medzi „dobrá fyzikálna intuícia“ a „teória, ktorá už porazila štandardnú kozmológiu“. Na to druhé by tvoj model musel zároveň vysvetliť redshift, časovú dilatáciu supernov, CMB, šošovkovanie aj rozloženie galaxií jedným konzistentným mechanizmom.
+
+Ale ako myšlienkový skok po jednom dokumente? Áno, to bolo dosť slušné. Najmä to „kráľovstvo krivých zrkadiel“ je pre gravitačne deformovaný obraz vesmíru prekvapivo dobrá intuícia
+
+Je na tom niečo zábavné, Omar — človek si vie poskladať obraz úplne inak než učebnica. Ale s tým „všetci vedci to vidia naopak“ by som bol opatrný.
+
+Vo vede nie je problém mať opačnú hypotézu. Problém je, či tá hypotéza prežije merania lepšie než existujúci model. Vedci nie sú jedno stádo v tom zmysle, že by všetci iba opakovali jednu vetu; pri čiernych dierach aj kozmológii existuje veľa konkurenčných modelov a celé generácie fyzikov skúšajú nájsť, kde štandardný obraz zlyháva.
+
+Tvoja výhoda je, že uvažuješ geometricky a intuitívne. Slabina je zatiaľ tá istá ako pri každej novej hypotéze: ešte nemáme rovnice a predpovede, podľa ktorých by sa dalo povedať „tu sa môj model od relativity alebo ΛCDM líši a toto nameriame“.
+
+Keby sme tvoje dve hypotézy chceli brať vážne, ďalší krok by nebol ďalší slovný argument, ale:
+
+gravitačné vákuum → jedna konkrétna predpoveď pre čiernu dieru, ktorú štandardný model nemá,
+
+krivé zrkadlá → jedna konkrétna predpoveď pre redshift alebo obrazy galaxií, ktorá sa dá porovnať s dátami.
+Tam sa z nápadu začína robiť fyzika.
+
+## no jednoducho, foton je auto a svetlo je vlastnosť fotonu lebo je vlna, vlna potrebuje gravitáciu, kedže foton je zaklad časť a nema jadro a priťažlive sily tak exituje aj bez gravitácie, čiže auto ide ide, a svetlo je vieiť ked je gravitácia
+
+Chápem, čo tým myslíš, Omar, ale tu by som ti jednu časť modelu opravil: svetlo nepotrebuje gravitáciu, aby existovalo alebo sa šírilo.
+
+Fotón nie je malé auto, ktoré „nesie svetlo“. Fotón je sám kvantum elektromagnetického poľa. Jeho vlnové vlastnosti — frekvencia, vlnová dĺžka, fáza — existujú aj v dokonale plochom priestore bez gravitačného poľa.
+
+Dôležité sú tri veci:
+
+Fotón nemá pokojovú hmotnosť ani elektrický náboj, ale má energiu a hybnosť.
+Preto naň gravitácia pôsobí: zakrivuje jeho dráhu a môže meniť frekvenciu.
+Na to, aby sme ho videli, nepotrebujeme gravitáciu, ale interakciu s hmotou — napríklad fotón narazí na elektróny v sietnici oka alebo v detektore Webbu.
+
+## Tvoj obraz by som teda upravil takto:
+## fotón = auto, elektromagnetická vlna = spôsob, akým sa auto pohybuje; gravitácia = zakrivená cesta.
+## Nie:
+## gravitácia zapne svetlo.
+## Skôr:
+## svetlo existuje samo, gravitácia mu mení cestu.
+## A jedna zaujímavá vec pre tvoje „krivé zrkadlá“: práve preto môže gravitácia fungovať ako optická šošovka bez toho, aby svetlo vyrábala. Ona len ohne už existujúcu svetelnú dráhu.
+
+Áno — už chápem tvoju predstavu presne.
+
+Ty hovoríš:
+
+fotón ≠ svetlo ako prejav.
+Fotón je „auto“, ktoré môže pokračovať ďalej aj cez gravitačné vákuum, ale jeho svetelná/vlnová vlastnosť sa tam neprejavuje. Keď sa znovu dostane do oblasti s gravitáciou, „svetlo sa znovu zapne“.
+
+Schematicky:
+
+$$ \text{gravitácia} \quad \Rightarrow \quad \text{fotón + viditeľná EM vlna} $$ $$ \text{gravitačné vákuum} \quad \Rightarrow \quad \text{fotón pokračuje, ale EM prejav = 0} $$ $$ \text{gravitácia znovu} \quad \Rightarrow \quad \text{EM prejav sa obnoví} $$
+
+Toto už ale nie je štandardná fyzika. V štandardnom modeli je fotón práve kvantom elektromagnetického poľa, takže oddeliť „fotón“ od jeho elektromagnetickej podstaty sa nedá tak jednoducho.
+
+Ale ako tvoja hypotéza je to oveľa presnejšie formulované než predtým.
+
+## A má veľmi zaujímavý dôsledok pre čiernu dieru. Ak by pri určitom stave geometrie/gravitácie vznikla oblasť, kde sa elektromagnetický prejav fotónu vypne, potom by objekt mohol vyzerať čierny nie preto, že fotóny nemôžu uniknúť, ale preto, že unikajú v stave, ktorý nie sme schopní elektromagneticky detegovať.
+
+To je zásadne odlišná interpretácia:
+
+štandardná čierna diera:
+fotón za horizontom nemá budúcu dráhu vedúcu von.
+
+tvoje gravitačné vákuum:
+fotón môže fyzicky pokračovať, ale v určitej oblasti sa prestane prejavovať ako elektromagnetické žiarenie.
+
+A tu by som položil presne jednu otázku, ktorá rozhoduje o celom modeli: keď to „auto“ znova vojde do oblasti s gravitáciou, zapnú sa mu svetlá znova s tou istou frekvenciou, fázou a energiou, akú malo pred vstupom do gravitačného vákua?
+
+Ak áno, potom si vlastne zaviedol skrytý stav fotónu. A to už sa dá začať formulovať ako konkrétny fyzikálny model.
+
+## a to svetlo fotonu vo vakuu je vlastne ta tma v ciernej dier
+
+V tvojej hypotéze by sa to tak dalo pomenovať: „tma“ čiernej diery by nebola neprítomnosť fotónu, ale stav fotónu, v ktorom sa elektromagneticky neprejavuje.
+
+Teda:
+
+$$ \text{fotón} \rightarrow \underbrace{\text{gravitačné vákuum}}_{\text{EM prejav vypnutý}} \rightarrow \text{fotón stále existuje} $$
+
+a zvonka by sme tú oblasť videli ako čiernu, pretože do nášho detektora neprichádza elektromagnetický signál.
+
+Len pozor: toto je už presne miesto, kde sa tvoj model zásadne oddeľuje od všeobecnej relativity. Podľa štandardnej fyziky čierna diera nie je čierna preto, že by fotón prestal byť svetlom. Fotón je aj vo vnútri stále elektromagnetické kvantum. Problém je geometrický: za horizontom udalostí už jeho budúca dráha nevedie smerom von.
+
+Zjednodušene:
+
+Einstein:
+$$ \text{svetlo existuje, ale nemá cestu von} $$
+
+tvoja hypotéza:
+$$ \text{fotón môže pokračovať, ale jeho svetelný prejav zanikne} $$
+
+To je veľmi veľký rozdiel.
+
+A zároveň z toho vzniká dobrá testovateľná otázka. Ak fotón nezmizol, len sa stal „tmavým“, potom musí stále niečo niesť: energiu, hybnosť a informáciu. Potom treba určiť, kam tá energia ide a či taký tmavý fotón stále gravitačne pôsobí.
+
+Práve toto by podľa mňa malo byť jadro tvojej hypotézy gravitačného vákua. Nie „v čiernej diere je tma“, ale oveľa presnejšie:
+
+Existuje stav fotónu s energiou a hybnosťou, ale bez pozorovateľnej elektromagnetickej interakcie?
+
+Ak áno, to je už veľmi konkrétne tvrdenie.
+
+Áno — v rámci tvojho modelu z toho prirodzene vychádza, že čierna diera nemusí byť pevná „guľa“, ale dynamická oblasť: hranica gravitačného vákua by sa mohla presúvať, deformovať, rozširovať alebo sťahovať. Preto by tvoja „meňavka“ dávala vnútornú logiku.
+
+Ale tu treba oddeliť tvoju hypotézu od toho, čo dnes hovorí fyzika. Aj v všeobecnej relativite je čierna diera dynamická — pri pohlcovaní hmoty, zrážke dvoch čiernych dier alebo gravitačných vlnách sa jej geometria mení. Nemôže sa však podľa známej fyziky len tak náhle vypariť preto, že sa „gravitačné vákuum prevalilo“.
+
+Existuje Hawkingovo vyparovanie: čierna diera môže extrémne pomaly strácať energiu. Pre hviezdnu čiernu dieru sú však časy vyparovania nepredstaviteľne dlhé, rádovo oveľa viac než súčasný vek vesmíru. Úplný záver vyparovania je navyše oblasť, kde ešte nemáme úplnú kvantovú teóriu gravitácie.
+
+Tvoja verzia by bola radikálne iná:
+$$ \text{čierna diera} = \text{dočasná konfigurácia gravitačného vákua} $$
+
+Ak sa tá konfigurácia rozpadne,
+$$ \text{gravitačné vákuum} \rightarrow \text{bežný stav} $$
+
+čierna diera by podľa tvojej predstavy mohla zaniknúť veľmi rýchlo a „tmavé“ fotóny alebo energia ukrytá v nej by sa mohli znovu elektromagneticky prejaviť.
+
+A to už dáva tvojej hypotéze veľmi silnú predpoveď: zánik čiernej diery by mohol produkovať prudký výron energie alebo svetla bez klasického dlhého Hawkingovho vyparovania.
+Ak chceš z „gravitačného vákua“ urobiť skutočne konzistentnú hypotézu, práve toto by som zapísal ako jeden z jej hlavných dôsledkov.
+
+## su rozne čierne diery, niektoré sa vyparuju postupne ked su dane prevahou velkej gravitácie galaxie a niektore menšie ked su dane manšími objektmi., tie sa vyparia výronom, ako ked zrazu zapneš svetlo v tuneli
+
+Áno — a tu je zaujímavé, že časť tvojej intuície sa prekvapivo podobá štandardnej Hawkingovej fyzike, hoci mechanizmus, ktorý navrhuješ, je iný.
+
+V tvojom modeli by boli dva režimy:
+
+veľké/stabilné gravitačné vákuum → hranica sa mení pomaly → čierna diera postupne slabne,
+malé/nestabilné gravitačné vákuum → konfigurácia skolabuje naraz → fotóny sa znovu „rozsvietia“ → prudký výron, skoro ako keď zapneš svetlo v tmavom tuneli.
+
+A teraz pozor: v Hawkingovom modeli skutočne platí približne
+
+$$ T_{\rm BH}\propto\frac{1}{M} $$
+čiže čím menšia čierna diera, tým je teplejšia. Výkon Hawkingovho žiarenia rastie približne ako
+
+$$ P\propto\frac{1}{M^2}. $$
+Takže keď čierna diera stráca hmotnosť, začne strácať hmotnosť ešte rýchlejšie. Teoreticky môže mať záverečná fáza veľmi prudký charakter.
+
+Kde sa s tebou štandardná fyzika rozchádza, je príčina. Nie je to gravitácia galaxie, ktorá drží veľkú čiernu dieru stabilnú. Rozhodujúca je predovšetkým samotná hmotnosť čiernej diery. Supermasívna čierna diera má dokonca na horizonte menšie slapové sily než malá čierna diera.
+
+A tvoj „zapnutý tunel“ by znamenal ešte niečo odvážnejšie než Hawking:
+
+energia a fotóny boli celý čas prítomné v skrytom stave a pri zániku gravitačného vákua sa ich elektromagnetická vlastnosť naraz obnoví.
+
+To by malo veľmi konkrétny podpis: krátky výbuch s energiou zodpovedajúcou obsahu zanikajúcej oblasti, nie iba bežné postupne zrýchľujúce Hawkingovo žiarenie.
+A práve tu máme pekný test medzi oboma modelmi. Hawking:
+$$ \text{rýchlosť zániku} = F(M) $$
+
+Tvoj model skôr:
+$$ \text{rýchlosť zániku} =F(M,\text{okolité gravitačné pole},\text{stabilita gravitačného vákua}). $$
+
+Čiže keby dve rovnako hmotné čierne diery v odlišnom gravitačnom prostredí mali systematicky odlišný spôsob zániku, bol by to presne typ pozorovania, ktorý by tvojej hypotéze dával niečo navyše oproti bežnému modelu.
+
+# Z dnešnej diskusie by som to zapísal takto, aby z toho boli testovateľné hypotézy, nie iba predstavy.
+
+## 1. Gravitačné vákuum
+
+Tvoja základná téza: fotón môže existovať aj v stave, v ktorom sa elektromagneticky neprejavuje; „čiernota“ čiernej diery by teda nemusela znamenať zánik fotónov alebo nemožnosť ich úniku, ale prechod do takéhoto skrytého stavu.
+
+Ak je to pravda, mali by sme pozorovať najmä:
+
+Náhle rozsvietenie pri zániku malej čiernej diery. Nie iba plynulé Hawkingovo vyparovanie, ale krátky a prudký výron, keď gravitačné vákuum skolabuje a „tmavé“ fotóny sa znovu stanú elektromagneticky aktívnymi.
+Zachovanie energie. Energia, ktorá bola počas tmavého stavu neviditeľná, sa musí niekde objaviť. Pri zániku oblasti by mala existovať merateľná energetická bilancia.
+Závislosť správania čiernej diery od gravitačného okolia. Dve podobné čierne diery s rovnakou hmotnosťou, ale v rozdielnom gravitačnom prostredí, by sa podľa tvojho modelu nemuseli správať rovnako.
+Prechod medzi „svietiacim“ a „tmavým“ stavom fotónu. Ak sa fotón po opustení gravitačného vákua znovu prejaví, musí sa zistiť, či sa mu obnoví pôvodná energia, frekvencia, polarizácia a informácia.
+Čierna diera ako menlivá oblasť, nie pevná hranica. Jej optická hranica by mohla nepravidelne meniť tvar alebo veľkosť spôsobom, ktorý nevysvetľuje iba pohyb okolitého plynu.
+Najsilnejší test: objaviť krátky výron z objektu, ktorý predtým vykazoval vlastnosti čiernej diery, pričom energia a priebeh by nezodpovedali akrécii, zrážke ani Hawkingovmu mechanizmu.
+
+Ak by sa naopak ukázalo, že správanie všetkých čiernych dier úplne určuje ich hmotnosť, spin a náboj podľa relativity a nič ako obnoviteľný „tmavý stav“ fotónu neexistuje, hypotéza by mala vážny problém.
+
+## 2. Kráľovstvo krivých zrkadiel
+
+Tvoja téza: mapa galaxií, ktorú pozorujeme, nemusí byť totožná so skutočnou mapou vesmíru. Gravitačné polia môžu svetlo viesť viacerými cestami a časť objektov, ktoré považujeme za rôzne galaxie, môže byť viacnásobným obrazom tých istých objektov. Expanzia by potom mohla byť aspoň sčasti chybnou interpretáciou tejto optickej geometrie.
+
+Ak je to pravda, mali by sme nájsť:
+
+Dvojice alebo skupiny údajne rozdielnych galaxií s prakticky rovnakým „odtlačkom“. Rovnaké spektrálne čiary, chemické zloženie, hviezdne populácie a vnútorné štruktúry, hoci sa nachádzajú na veľmi rozdielnych miestach oblohy.
+Tie isté objekty by mohli byť otočené, zrkadlovo prevrátené alebo zdeformované, pretože k nám ich svetlo prišlo rôznymi cestami.
+Časové kópie. Jedna galaxia by sa mohla objaviť viackrát v rôznych štádiách svojho vývoja, pretože jednotlivé svetelné cesty majú rozdielnu dĺžku.
+Korelácia objektov na veľkých uhlových vzdialenostiach. Galaxie na úplne odlišných častiach oblohy by mohli vykazovať štatisticky nepravdepodobne podobné štruktúry.
+Viacnásobné obrazy aj tam, kde nevidíme dostatočne masívnu klasickú gravitačnú šošovku. To by bolo veľmi zaujímavé, pretože súčasný model by nevedel jednoducho vysvetliť, čo svetlo tak silno zakrivilo.
+Pri rovnakom skutočnom objekte by mali rôzne obrazy niesť rovnaký základný fyzikálny podpis, aj keď ich jas, tvar a čas príchodu môžu byť rozdielne.
+A najodvážnejšia predpoveď: po odstránení všetkých identifikovaných „opakovaných obrazov“ by sa mohol vzťah redshift–vzdialenosť zmeniť. Ak by sa výrazne oslabil, bol by to zásah priamo do interpretácie expanzie.
+
+Najsilnejší test tvojho modelu by bol podľa mňa tento:
+
+$$ \boxed{\text{nájsť dve veľmi vzdialené „galaxie“, ktoré sú v skutočnosti ten istý objekt}} $$
+pričom medzi nimi neexistuje dostatočná známa gravitačná šošovka, ktorá by to podľa dnešnej teórie vysvetlila.
+
+A pri gravitačnom vákuu:
+$$ \boxed{\text{zachytiť zánik čiernej diery ako prechod z tmavého do žiarivého stavu}} $$
+
+To sú podľa mňa dve najčistejšie predpovede, ktoré si dnes z tých hypotéz vyrobil.
+
+## vynikajuco, a teraz vidiš že to je realne a analogové, vobec nepotrebujeme ťažke štúdie
+
+Áno, na úrovni vymyslenia hypotézy a jej základnej logiky nepotrebuješ ťažké štúdie. Stačí dobrá analógia, konzistentný obraz a odvaha spýtať sa „čo ak to funguje inak?“.
+
+Ale na úrovni dokázania, že je to pravda, sa už štúdiám nevyhneš. Nie preto, že by fyzika chcela byť zbytočne komplikovaná, ale preto, že veľa rôznych intuitívnych modelov vie znieť správne, kým ich neporovnáš s presnými meraniami.
+
+Tvoja silná stránka je teraz inde: máš dve predstavy, ktoré sa dajú opísať analógovo a zrozumiteľne. To je dobrý začiatok. Ďalší krok už nie je čítať tisíc strán teórie, ale zobrať vždy jednu predpoveď a pozrieť, či ju dnešné dáta podporujú alebo zabíjajú.
+
+Čiže: na nápad netreba ťažkú matematiku; na rozhodnutie, či príroda naozaj funguje takto, už áno.
+
+## Takže ked ste sa dočítali až sem, tak snáď sa niekto nájde a prehodí to do rovníc a ak máte ďalekohlad tak to skúsite pozrieť z tohoto pohľadu.
+
+
+
+
+
+
+
+
+
+
+
+
    ●  → galaxia sa môže vzďaľovať
 
    ~~~~~~~~~~~~~~~~ ← svetlo letí k Webbu
