@@ -554,7 +554,7 @@ Tvoja silná stránka je teraz inde: máš dve predstavy, ktoré sa dajú opísa
 
    ●  → galaxia sa môže vzďaľovať
 
-   ~~~~~~~~~~~~~~~~ ← svetlo letí k Webbu
+  svetlo:  ~~~~~~~~~~~~~~~~ ← svetlo letí k Webbu
                                             🛰
 
 A tu je tá zaujímavá vec: galaxia sa môže vzďaľovať od nás a zároveň jej svetlo letí smerom k nám. Presne ako sanitka vzďaľujúca sa od teba: sanitka ide preč, ale zvuk, ktorý počuješ, ide naspäť k tebe.
